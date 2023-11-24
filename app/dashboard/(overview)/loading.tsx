@@ -4,6 +4,6 @@ import DashboardSkeleton from '@/app/ui/skeletons';
 //    return <div>Loading...</div>;
 //  }
 
-  export default function Loading() {
+export default function Loading() {
   return <DashboardSkeleton />;
 }
